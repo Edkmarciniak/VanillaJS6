@@ -12,7 +12,13 @@ people.filter((theCurrentPersonThatIamCheckingTheAge4) =>
 theCurrentPersonThatIamCheckingTheAge4.age> 27);
 
 console.log(olderPeople);
+//HINT: Use the 'startsWith' method (*see MDN)
 
+const peopleThatStartWithJ = people.filter(person)=>
+person.name.startsWith("j");
+);
+
+console.log
 
 
 

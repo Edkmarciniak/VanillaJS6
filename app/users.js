@@ -20,7 +20,9 @@ export default  {
       "catchPhrase": "Multi-layered client-server neural-net",
       "bs": "harness real-time e-markets"
     }
-  },
+
+    },
+
   {
     "id": 2,
     "name": "Ervin Howell",
