@@ -9,7 +9,11 @@ console.log(people);
  */
 
 people.filter((theCurrentPersonThatIamCheckingTheAge4) =>
-theCurrentPersonThatIamCheckingTheAge4.age > 27);
+theCurrentPersonThatIamCheckingTheAge4.age> 27);
+
+console.log(olderPeople);
+
+
 
 
 
